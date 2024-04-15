@@ -1,14 +1,16 @@
+#The Iterator Design Pattern
+
 The Iterator design pattern is a behavioral design pattern used in software engineering. It provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
 
 Here's how it typically works:
 
-1.  Iterator: This is an interface or an abstract class that defines methods for accessing the elements of the aggregate object. It usually includes methods like next(), hasNext(), remove(), etc.
+1.  **Iterator**: This is an interface or an abstract class that defines methods for accessing the elements of the aggregate object. It usually includes methods like next(), hasNext(), remove(), etc.
 
-2.  Concrete Iterator: This is a class that implements the Iterator interface and provides the actual implementation for traversing the elements of the aggregate object.
+2.  **Concrete Iterator**: This is a class that implements the Iterator interface and provides the actual implementation for traversing the elements of the aggregate object.
 
-3.  Aggregate: This is an interface or an abstract class that defines a method for creating an iterator object. It represents the collection of objects that the iterator will traverse.
+3.  **Aggregate**: This is an interface or an abstract class that defines a method for creating an iterator object. It represents the collection of objects that the iterator will traverse.
 
-4.  Concrete Aggregate: This is a class that implements the Aggregate interface and provides the actual implementation for creating an iterator object.
+4.  **Concrete Aggregate**: This is a class that implements the Aggregate interface and provides the actual implementation for creating an iterator object.
 
 When to use it:
 
