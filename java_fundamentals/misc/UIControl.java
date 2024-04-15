@@ -1,4 +1,4 @@
-package basics;
+package java_fundamentals.misc;
 public abstract class UIControl {
     public void enable() {
         System.out.println("Enabled");

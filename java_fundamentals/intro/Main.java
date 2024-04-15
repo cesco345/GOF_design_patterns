@@ -1,4 +1,4 @@
-package basics.hello;
+package java_fundamentals.intro;
 
 import java.util.Scanner;
 
@@ -30,4 +30,6 @@ public class Main {
         String mortgageFormatted = String.format("%.2f", mortgage);
         System.out.println("Mortgage: " + mortgageFormatted);
     }
+
+    
 }

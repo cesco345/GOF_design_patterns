@@ -1,4 +1,4 @@
-package basics;
+package java_fundamentals.misc;
 public class Account {
     private float balance;
 

@@ -1,4 +1,4 @@
-package basics;
+package java_fundamentals.misc;
 public class Main {
     public static void main(String[] args) {
         drawUIControl(new CheckBox());
