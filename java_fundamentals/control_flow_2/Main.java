@@ -1,4 +1,4 @@
-package java_fundamentals.control_flow;
+package java_fundamentals.control_flow_2;
 
 import java.util.Scanner;
 public class Main {

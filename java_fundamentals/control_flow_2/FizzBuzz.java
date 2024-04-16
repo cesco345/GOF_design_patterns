@@ -1,4 +1,4 @@
-package java_fundamentals.control_flow;
+package java_fundamentals.control_flow_2;
 
 public class FizzBuzz {
     public static void main(String[] args) {

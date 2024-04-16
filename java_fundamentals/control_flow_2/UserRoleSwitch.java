@@ -1,4 +1,4 @@
-package java_fundamentals.control_flow;
+package java_fundamentals.control_flow_2;
 
 public class UserRoleSwitch {
     public static void main1(String[] args) {
