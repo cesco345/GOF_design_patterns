@@ -5,7 +5,9 @@ public class Main {
 
     public static void main(String[] args) {
     
+        @SuppressWarnings("unused")
         final byte MONTHS_IN_YEAR = 12;
+        @SuppressWarnings("unused")
         final byte PERCENT = 100;
         Scanner scanner = new Scanner(System.in);
         int principal = 0;

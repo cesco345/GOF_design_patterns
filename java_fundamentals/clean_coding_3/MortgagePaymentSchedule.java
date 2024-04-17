@@ -34,6 +34,7 @@ public class MortgagePaymentSchedule {
 
     public static double readNumber(String prompt, double min, double max) {
 
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
         double value;
         while (true) {
@@ -81,5 +82,8 @@ public class MortgagePaymentSchedule {
 
         return mortgage;
     }
+
+
+    
 
 }

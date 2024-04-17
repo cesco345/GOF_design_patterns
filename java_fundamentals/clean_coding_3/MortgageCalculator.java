@@ -18,6 +18,7 @@ public class MortgageCalculator {
 
     public static double readNumber(String prompt, double min, double max) {
 
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
         double value;
         while (true) {
@@ -27,11 +28,16 @@ public class MortgageCalculator {
             if (value >= min && value <= max)
                 break;
             System.out.println("Enter a value between " + min + " and " + max);
+           
         }
 
         return value;
 
+
+
     }
+
+    
 
     public static double calculateMortgage(
             int principal,
@@ -50,5 +56,7 @@ public class MortgageCalculator {
 
         return mortgage;
     }
+
+
 
 }

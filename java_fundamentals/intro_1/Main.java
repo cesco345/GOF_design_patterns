@@ -10,6 +10,7 @@ public class Main {
 
         final byte PERCENT = 100;
 
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Principal: ");
