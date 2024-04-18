@@ -7,6 +7,7 @@ public class Console {
     public static double readNumber(String prompt, double min, double max) {
     
        
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
         double value;
         while (true) {

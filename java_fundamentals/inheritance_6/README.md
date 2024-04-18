@@ -15,17 +15,17 @@ These methods are inherited by all classes in Java and can be overridden to prov
 # Access Modifiers in Java
 Access modifiers in Java are keywords used to specify the accessibility or visibility of classes, methods, variables, and constructors in Java. These modifiers control which other classes can access a particular class, method, variable, or constructor. Java provides four types of access modifiers:
 
-1.  *Private:* Members (methods, variables, and nested classes) with the private access modifier are accessible only within the same class. They are not visible to any other class, even subclasses.
+1.  **Private:** Members (methods, variables, and nested classes) with the private access modifier are accessible only within the same class. They are not visible to any other class, even subclasses.
 
-2.  *Default (no modifier):* Members with default access, also known as package-private, are accessible only within the same package. If no access modifier is specified, the member has default access.
+2.  **Default (no modifier):** Members with default access, also known as package-private, are accessible only within the same package. If no access modifier is specified, the member has default access.
 
-3.  *Protected:* Members with the protected access modifier are accessible within the same package and by subclasses (regardless of the package). However, they are not accessible to non-subclasses outside the package.
+3.  **Protected:** Members with the protected access modifier are accessible within the same package and by subclasses (regardless of the package). However, they are not accessible to non-subclasses outside the package.
 
-4.  *Public:* Members with the public access modifier are accessible from any other class. There are no restrictions on accessing public members.
+4.  **Public:** Members with the public access modifier are accessible from any other class. There are no restrictions on accessing public members.
 
 These access modifiers can be applied to classes, constructors, methods, and variables in Java. They allow developers to control the visibility and accessibility of their code, which helps in encapsulation, abstraction, and maintaining code integrity. By properly using access modifiers, developers can create clear and maintainable code while also enforcing data hiding and encapsulation principles.
 
-#The Concept of Upcasting and Downcasting in Java
+# The Concept of Upcasting and Downcasting in Java
 
 In Java, upcasting and downcasting are concepts related to treating objects of one type as objects of another type. These concepts are closely tied to the inheritance hierarchy and the relationships between classes.
 
