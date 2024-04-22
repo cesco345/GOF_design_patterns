@@ -1,3 +1,4 @@
+package java_fundamentals.design_patterns.memento;
 public class Document {
     private String content;
     private String fontName;

@@ -1,4 +1,4 @@
-package iterator;
+package java_fundamentals.design_patterns.iterator;
 
 public interface Iterator {
 
