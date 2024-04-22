@@ -2,8 +2,7 @@
 
 ### This repository contains some helpful examples of Java code applied to different areas. The directory contains 'Java Basics' directory that is a back to the basics easy to follow code and it serves as a refresher to the user into modern Java.  Enjoy and happy hacking!
 
-```
-├───.vscode
+
 └───java_fundamentals
     ├───data_structures
     │   ├───arrays_1
@@ -29,4 +28,4 @@
     │   ├───streams_12
     │   └───threads_13
     └───misc
-    ```
+ 
