@@ -29,7 +29,7 @@
     └───misc
     ```
 
-### ***hack***
+ *** hacking  ***
 [very common]
 vi. To interact with a computer in a playful and exploratory rather than goal-directed way. “Whatcha up to?” “Oh, just hacking.”
 
