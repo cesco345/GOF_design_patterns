@@ -28,3 +28,9 @@
     │   └───threads_13
     └───misc
     ```
+
+### ***hack***
+[very common]
+vi. To interact with a computer in a playful and exploratory rather than goal-directed way. “Whatcha up to?” “Oh, just hacking.”
+
+http://catb.org/jargon/html/H/hack.html
