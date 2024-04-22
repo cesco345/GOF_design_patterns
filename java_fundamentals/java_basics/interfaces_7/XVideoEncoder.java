@@ -1,4 +1,4 @@
-package java_fundamentals.java_basics.interfaces_7.src.com.mytube;
+package java_fundamentals.java_basics.interfaces_7;
 
 public class XVideoEncoder implements VideoEncoder {
     @Override
