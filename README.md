@@ -1,6 +1,6 @@
-# Welcome to Java Fundamentals
+# Welcome to my Java Fundamentals repository
 
-### This repository contains some helpful examples of Java code applied to different areas. The directory contains 'Java Basics' directory that is a back to the basics easy to follow code and it serves as a refresher to the user into modern Java.  Enjoy and happy hacking!
+### This repository contains some helpful examples of Java code applied to different disciplines. The directory is broken down into a 'Java Basics' directory, a 'Data Structures' directory, and a 'Design Patterns' directory based on Mosh Hamedani's design patterns course. The 'Java Basics' directory is a back to the basics and easy to follow refresher to the user into modern Java. I hope you enjoy it and happy hacking!
 ```
 └───java_fundamentals
     ├───data_structures
