@@ -1,7 +1,7 @@
 # Welcome to Java Fundamentals
 
 ## This repository contains some helpful examples of Java code applied to different areas. It has a Java basics directory that serves as a refresher to the user in new Java 8 additions.
-
+```
 └───java_fundamentals
     ├───data_structures
     │   ├───arrays_1
@@ -30,3 +30,4 @@
     │   ├───streams_12
     │   └───threads_13
     └───misc
+    ```
