@@ -1,4 +1,4 @@
-package strategy;
+package java_fundamentals.design_patterns.strategy;
 
 public class PngCompressor implements Compressor {
     public void compress(String fileName) {

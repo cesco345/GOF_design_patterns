@@ -1,4 +1,4 @@
-package strategy;
+package java_fundamentals.design_patterns.strategy;
 
 public class ImageStorage {
     public void store(String fileName, Compressor compressor, Filter filter) {

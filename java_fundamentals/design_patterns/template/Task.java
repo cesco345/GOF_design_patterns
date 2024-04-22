@@ -1,4 +1,4 @@
-package template;
+package java_fundamentals.design_patterns.template;
 
 public abstract class Task {
     private AuditTrail auditTrail;  // Composition

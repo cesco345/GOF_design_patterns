@@ -1,4 +1,4 @@
-package template;
+package java_fundamentals.design_patterns.template;
 
 public class TransferMoneyTask extends Task{
     @Override

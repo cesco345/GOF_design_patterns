@@ -1,4 +1,4 @@
-package strategy;
+package java_fundamentals.design_patterns.strategy;
 
 public class BlackAndWhiteFilter implements Filter{
     @Override

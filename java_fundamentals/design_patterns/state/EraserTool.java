@@ -1,4 +1,4 @@
-package state;
+package java_fundamentals.design_patterns.state;
 
 public class EraserTool implements Tool{
 
